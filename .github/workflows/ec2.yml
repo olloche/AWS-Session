@@ -44,7 +44,7 @@ jobs:
 
           # Clone or update the AWS-Session repo
           if [ ! -d "AWS-Session" ]; then
-            git clone https://github.com/ike3232/AWS-Session.git
+            git clone https://github.com/olloche/AWS-Session.git
           else
             cd AWS-Session && git pull origin main
           fi
