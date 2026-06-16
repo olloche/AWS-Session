@@ -20,7 +20,7 @@ SECRET_KEY=""
 npm install
 npm run start
 ```
-shej
+she
 ### Set up an AWS EC2 instance
 
 1. Create an IAM user & login to your AWS Console
